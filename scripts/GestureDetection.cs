@@ -1,4 +1,13 @@
-﻿using System.Collections;
+﻿/*
+ * Script: GestureDetection.cs
+ * Author: King
+ * Site: http://codeofcodehall.co.uk
+ * Desc: Setup the gestures we want to track.
+ *       When the gesture is detected update 
+ *       the position of the hand.
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Experimental.XR.MagicLeap;
