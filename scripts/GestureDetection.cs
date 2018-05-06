@@ -2,6 +2,8 @@
  * Script: GestureDetection.cs
  * Author: King
  * Site: http://codeofcodehall.co.uk
+ * Date: May 6th 2018
+ * Lumin SDK: 0.13.0
  * Desc: Setup the gestures we want to track.
  *       When the gesture is detected update 
  *       the position of the hand.

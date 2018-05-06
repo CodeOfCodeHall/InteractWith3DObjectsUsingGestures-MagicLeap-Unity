@@ -1,4 +1,14 @@
-﻿using System.Collections;
+﻿/*
+ * Script: TouchCubeCollider.cs
+ * Author: King
+ * Site: http://codeofcodehall.co.uk
+ * Date: May 6th 2018
+ * Lumin SDK: 0.13.0
+ * Desc: When a collision occurs change 
+ *       the objects colour
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
