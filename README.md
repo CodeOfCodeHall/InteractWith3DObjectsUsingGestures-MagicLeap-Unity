@@ -1,5 +1,6 @@
-# Touch3DObjectsWithGestures-ML1-Unity
+# InteractWith3DObjectsUsingGestures-MagicLeap-Unity
 Detect touches to 3d objects in the Magic Leap Simulator with Unity
+//more detailed tutorial available at: http://codeofcodehall.co.uk/magic-leap/interact-with-3d-objects-using-gestures-in-magic-leap-unity/
 
 1. Create New Magic Leap Project in Unity
 2. Import the libs folder from the Magic Leap Unity Examples package
