@@ -18,7 +18,7 @@ Detect touches to 3d objects in the Magic Leap Simulator with Unity
 13. Set the scale to 0.2, 0.2, 0.2
 14. Add a Rigidbody to the sphere
 15. Disable use gravity
-16. Set the public variable Finger on the Gestures object to the sphere.
+16. Set the public variable Finger on the Gestures script to the sphere in the unity inspector.
 
 
 Play! You should see a white cube in the simulator, set the gesture to either the L or the Finger gesture and alter the positions to 0,2,2.4 to touch the cube. The cube should turn blue and react to the collision by moving and rotating.
